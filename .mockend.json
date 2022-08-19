@@ -1,4 +1,9 @@
 {
+  "Post" :{
+    "id" : {
+      "int": 0
+    }
+  },
   "User": {
     "name": {
       "string": {}
