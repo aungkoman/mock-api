@@ -1,8 +1,8 @@
 {
   "Post" :{
-    "id" : {
-      "int": 0
-    }
+    "title": {
+      "string": {}
+    },
   },
   "User": {
     "name": {
